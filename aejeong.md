@@ -1,0 +1,11 @@
+# hello aejeong
+## git명령어
+
+- clone
+- add
+- commit
+- push
+
+## 파일 내용 되돌리기
+`코드 뭉치 버리기` 선택하기
+
